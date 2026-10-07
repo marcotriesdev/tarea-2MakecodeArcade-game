@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAdnd2BwAAcAB3d3cHcHd2APd/d3d3d3cA93//f2d3BwB39/93d3cHAHf3/3d3ZwcA93//f3d3dwD3f3cHdnd3AHd3dgcAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "creeper"
+    },
+    "G_img": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAB3AAAAAAAAcGdVBwAAAAB3dlYHAABwcFV2Z3YHAHBndnd3Z3cAAHd2ZndnBgAAcHV3Z1YFAAAAVXd2dwAAAABwZncAAAAAAABwBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ore"
+    },
+    ")x=)StVVo60U;WSK1-`e_img": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkN3dAAAAAACZ3d0AAODu3ZmZiYgM4N7RmZmJiAzg3tiemYmIDODe3Z6ZiQAA4N7YnpmJiAzg3tGZmYmIDODu3ZmZiYgMAAAAmd3dAAAAAACQ3d0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Steve"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
